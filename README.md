@@ -11,9 +11,7 @@ As seguintes instruções irão ajudá-lo a obter uma cópia do projeto em funci
 ##  📋 Pré-requisitos
 
 
-
 ## 🔧 Clonando o repositório
-
 
 
 ## 🌳 Subindo o Projeto no GitHub
@@ -22,10 +20,11 @@ As seguintes instruções irão ajudá-lo a obter uma cópia do projeto em funci
 ## ▶ Criando a Aplicação
 
   
-## 👨‍💻 Configurando ESLint
+## 👨‍💻 Configurando Aplicação
 
 
 ## 🛠️ Construído com as seguintes ferramentas:
+
 
 ## ✒️ Autores
 
