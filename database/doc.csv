@@ -1,0 +1,28 @@
+NOME DA TABELA,TRADUCAO
+order status,status do pedido
+order purchase timestamp,carimbo de data/hora de compra do pedido
+order approved at,pedido aprovado em
+order delivered carrier date,pedido entregue data da transportadora
+order delivered customer date,pedido entregue data do cliente
+order estimated delivery date,data estimada de entrega do pedido
+payment sequential,pagamento sequencial
+payment type,tipo de pagamento
+payment installments,parcelamento de pagamento
+payment value,valor do pagamento
+shipping limit date,data limite de envio
+price,preço
+freight value,valor do frete
+customer zip code prefix,prefixo do CEP do cliente
+customer city,cidade do cliente
+customer state,estado do cliente
+product category name,nome da categoria do produto
+product name lenght,comprimento do nome do produto
+product description lenght,comprimento da descrição do produto
+product photos qty,fotos do produto quantidade
+product weight g,peso do produto g
+product length cm,comprimento do produto cm
+product height cm,altura do produto cm
+product width cm,largura do produto cm
+seller zip code prefix,prefixo do código postal do vendedor
+seller city,cidade do vendedor
+seller state,estado do vendedor
