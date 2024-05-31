@@ -7,8 +7,6 @@ import csv
 # Configurar o layout da página
 st.set_page_config(layout="wide")
 
-# Carregar os dados do arquivo "/home/charles/dados/datasets/dataset_olist.csv"
-#df = pd.read_csv("/home/charles/dados/datasets/dataset_olist.csv")
 
 url = 'https://drive.google.com/file/d/1dpMSmpARIxtH-LX5u8UI_qqDV8bpMlSG/view?usp=sharing'
 path = 'https://drive.google.com/uc?export=download&id='+url.split('/')[-2]
