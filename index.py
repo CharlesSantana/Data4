@@ -7,8 +7,8 @@ import csv
 # Configurar o layout da página
 st.set_page_config(layout="wide")
 
-# Carregar os dados do arquivo "/home/charles/dados/datasets/dataset_olist.csv"
-df = pd.read_csv("/home/charles/dados/datasets/dataset_olist.csv")
+# Carregar os dados do arquivo "https://drive.google.com/file/d/1zwusaJ6cBxAcaT34wP3c1t7M6jG0DyXY/view?usp=sharing"
+df = pd.read_csv("https://drive.google.com/file/d/1zwusaJ6cBxAcaT34wP3c1t7M6jG0DyXY/view?usp=sharing")
 
 # Exibir o DataFrame
 #st.write(df)
