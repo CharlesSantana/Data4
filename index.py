@@ -30,5 +30,5 @@ st.sidebar.image('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJ
 
 url = 'https://drive.google.com/file/d/1Ou6fDuQlkX0g2fdbGomn8h0vi_n06QrG/view'
 path = 'https://drive.google.com/uc?export=download&id='+url.split('/')[-2]
-df = pd.read_csv(path)
+df = pd.read_csv(url)
 
