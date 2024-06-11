@@ -1,4 +1,8 @@
 streamlit
 pandas
 plotly
-
+numpy
+plotly.express
+plotly.graph_objects
+plotly.io
+locale
