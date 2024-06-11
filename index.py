@@ -6,12 +6,11 @@
 
 import pandas as pd
 import streamlit as st
-#import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 import numpy as np
-#import plotly.express as px
-import plotly-graph-objects as go
+import plotly.express as px
+import plotly.graph_objects as go
 import plotly.io as pio
-
 import locale
 
 locale.setlocale(locale.LC_MONETARY, 'pt_BR.UTF-8')
