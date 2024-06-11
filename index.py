@@ -30,8 +30,8 @@ st.sidebar.image('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJ
 
 url = 'https://drive.google.com/file/d/1dpMSmpARIxtH-LX5u8UI_qqDV8bpMlSG/view?usp=sharing'
 path = 'https://drive.google.com/uc?export=download&id='+url.split('/')[-2]
-df = pd.read_csv(path)
-dados=df
+dados = pd.read_csv(path)
+
 
 
 
