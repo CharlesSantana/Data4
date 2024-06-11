@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import plotly.express as px
 import plotly.io as pio
-import locale
+
 
 locale.setlocale(locale.LC_MONETARY, 'pt_BR.UTF-8')
 
