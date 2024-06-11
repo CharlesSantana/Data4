@@ -51,7 +51,7 @@ col7,col8=st.columns(2)
 #variaveis Comentadas
 #Total Geral
 
-TotalGeral = df['payment_value'].sum()
+TotalGeral=sum(df.payment_value)
 
 
 #Calculos Para painel Superior
