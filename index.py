@@ -28,7 +28,7 @@ st.sidebar.image('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJ
 #Conexao com o Dataset
 #df = pd.read_csv("/home/master/projetos/datasets/dataset_olist.csv")
 
-url = 'https://drive.google.com/file/d/1psZ8kR9MkI9zqRE2pHxfGIgxDu5Efbvo/view?usp=drive_link'
+url = 'https://drive.google.com/file/d/1nlVgrARTuuwH3si9Ag1hgF4NIYf2YV3C/view'
 path = 'https://drive.google.com/uc?export=download&id='+url.split('/')[-2]
 df = pd.read_csv(url)
 
