@@ -4,6 +4,7 @@
 #https://medium.com/@coutinholps/dashboard-r%C3%A1pido-com-python-e-streamlit-6aa7df1fda49
 
 import streamlit as st
+import pandas.util.version
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
