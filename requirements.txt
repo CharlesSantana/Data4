@@ -1,6 +1,4 @@
 streamlit
-pandas.util.version
-pandas
 numpy
 plotly
 matplotlib
