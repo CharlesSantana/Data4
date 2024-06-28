@@ -6,7 +6,6 @@
 import streamlit as st
 import matplotlib.pyplot as plt
 import numpy as np
-import plotly.express as px
 import plotly.io as pio
 import locale
 locale.setlocale(locale.LC_ALL, "pt_BR.UTF-8")
