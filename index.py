@@ -13,7 +13,7 @@ st.set_page_config(layout="wide")
 # Carregar os dados do arquivo "/home/charles/dados/datasets/dataset_olist.csv"
 df = pd.read_csv("https://raw.githubusercontent.com/CharlesSantana/datasets/main/olist.csv")
 # Exibir o DataFrame
-st.write(df)
+3st.write(df)
 
 #=================combodata
 
